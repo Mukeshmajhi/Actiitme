@@ -1,1 +1,1 @@
-# Actiitme
+Handled automation testcases using Selenium for different use cases like Customer Profile Creation, Drop-down handling and Alert Pop-up which will handle different corner cases and error cases, which in turn will reduce app's bugs in production.
